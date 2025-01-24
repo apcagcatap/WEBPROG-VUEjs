@@ -10,8 +10,8 @@
 export default {
   data() {
     return {
-      name: 'Apples',
-      message: 'I like apples',
+      name: 'Mangoes,
+      message: 'I like Mangoes',
       clicks: 0
     }
   },
