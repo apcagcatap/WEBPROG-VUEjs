@@ -1,0 +1,48 @@
+<template>
+<h1>Personal Profile Web page</h1>
+
+<h2>About Me</h2>
+  <p>Hi, I’m Antonne Miguelle Catap, from BSCS-SS231. With a passion for innovation, I thrive on connecting 
+  <br>ideas with people.When I’m not studying, you can find me capturing every moment with my camera. This site 
+  <br>is a reflection of my journey, skills, and the things that inspire me. Let’s connect!</p>
+
+<h2>Education</h2>
+  <ul>
+    <li><a href="https://www.facebook.com/southmansfield">South Mansfield College</a></li>
+    <li><a href="https://www.facebook.com/@southernsidemontessori.edu.ph">Southernside Montessori School</a></li>
+    <li><a href="https://www.facebook.com/MunSci">Muntinlupa Science Highschool</a></li>
+    <li><a href="https://www.facebook.com/asiapacificcollege.edu">Asia Pacific Colleg</a></li>
+  </ul>    
+<h2>Achievements</h2>
+  <ul>
+    <li>Graduated seior highschool with honors in 2022-2023</li>
+    <li>Moved up from 1st year to second year college with honors in 2023-2024</li>
+  </ul>  
+
+<h2>Course</h2>
+  <p>BSCS-SS</p>
+
+<h2>IT Experience</h2>
+  <p>other than the classes I took in APC, I had no prior experience with IT</p>
+
+<h2>Hobbies and Interests</h2>
+<p>My main hobbies are photography, playing volleyball, online games, specifically first person shooting games, and reading manhwas and mangas. Lately I’ve been dabbling on arts and crafts such as handmade flowers, letters, or anything.</p>
+ 
+  <h2>Goals </h2>
+  <p>My Goal is To be rich enough that no one from my family would work.</p>
+
+  <h2>Dreams</h2>
+  <p>There is one dream that I will never let go, that is to be able to afford to give to donate to everyone. (and to have a big house for my family)</p>
+
+  <h2>Picture Gallery</h2>
+  <br>
+  <img src="IMG_0245.JPG" alt="ME" style="width:517px;height:200px;">
+  <img src="IMG_0637.JPG" alt="ME" style="width:517px;height:200px;">
+  <img src="IMG_1230.JPG" alt="ME" style="width:517px;height:200px;">
+  <img src="IMG_1554.JPG" alt="ME" style="width:517px;height:200px;">
+  
+</template>
+
+<script></script>
+
+<style></style>
