@@ -1,6 +1,6 @@
 <template>
     <ul>
-      <li v-for="country in countries" :key="country.id">{{ country.name }}</li>
+      <li v-for="name in countries" :key="name.id">{{ name.name }}</li>
     </ul>
   <h1>Food</h1>
   <h1>omsim</h1>
