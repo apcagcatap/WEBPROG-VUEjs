@@ -27,7 +27,6 @@
   const comment = ref('');
   const submissionStatus = ref(null);
   
-  // Your Supabase URL and Key - IMPORTANT!
   const tableName = 'comments'; // Name of your Supabase table
   
   async function submitComment() {
