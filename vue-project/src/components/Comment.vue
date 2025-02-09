@@ -19,7 +19,7 @@
 
 <script setup>
 import { ref, onMounted } from 'vue'
-import { supabase } from 'apcagcatap/WEBPROG-VUEjs/vue-project/src/lib/supabaseClient.js'
+import { supabase } from '../lib/supabaseClient'
 
 const comments = ref([])
 
