@@ -27,8 +27,8 @@
   const comment = ref('');
   const submissionStatus = ref(null);
   
-  const tableName = 'comments'; // Name of your Supabase table
-  
+  const tableName = 'comments'; 
+
   async function submitComment() {
     submissionStatus.value = "Submitting...";
     try {
@@ -52,7 +52,6 @@
   </script>
   
   <style scoped>
-  /* Basic styling - Customize as needed */
   .form-group {
     margin-bottom: 1rem;
   }
