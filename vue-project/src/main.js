@@ -7,7 +7,7 @@ import PersonalProfile from './components/PersonalProfile.vue'
 import Country from './components/Country.vue'
 import CommentForm from './components/CommentForm.vue'
 import Comment from './components/Comment.vue'
-import RestApi from './RestApi.vue';
+import RestApi from './components/RestApi.vue';
 
 const app = createApp(App)
 
